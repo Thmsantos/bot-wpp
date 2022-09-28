@@ -3,7 +3,7 @@ import keyboard
 import time
 from datetime import datetime
 
-contatos = ['+5511957603759']
+contatos = ['+55xxxxxxxxxxx', '+55xxxxxxxxxx']
 
 while len(contatos) >= 1:
     pywhatkit.sendwhatmsg(contatos[0],'teste do programa',datetime.now().hour,datetime.now().minute + 2)
