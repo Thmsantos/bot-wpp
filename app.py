@@ -12,4 +12,3 @@ while len(contatos) >= 1:
     keyboard.press_and_release('ctrl + w')
     
     
-#https://www.catho.com.br/vagas/desenvolvedor-react-native-junior-pleno/21058243/?origem_apply=busca-de-vagas&entrada_apply=direto
